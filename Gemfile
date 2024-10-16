@@ -31,6 +31,8 @@ gem "bootsnap", require: false
 
 gem "graphql", "~> 2.3"
 gem "graphiql-rails", "~> 1.10"
+# gem "propshaft", "~> 1.1"
+gem "sprockets-rails", "~> 3.5"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
