@@ -93,7 +93,7 @@ GEM
       activesupport (>= 6.1)
     graphiql-rails (1.10.1)
       railties
-    graphql (2.3.18)
+    graphql (2.4.2)
       base64
       fiber-storage
     i18n (1.14.6)
@@ -256,7 +256,7 @@ DEPENDENCIES
   brakeman
   debug
   graphiql-rails (~> 1.10)
-  graphql (~> 2.3)
+  graphql (~> 2.4)
   pg (~> 1.1)
   puma (>= 5.0)
   rails (~> 7.2.1, >= 7.2.1.1)
